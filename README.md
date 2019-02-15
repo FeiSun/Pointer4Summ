@@ -23,3 +23,6 @@ vocab file:
 ```bash
 <word>\t<count>
 ```
+
+## About the code
+This code is based on the [Pointer-Generator](https://github.com/abisee/pointer-generator) code.
